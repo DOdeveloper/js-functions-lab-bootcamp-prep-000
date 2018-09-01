@@ -1,6 +1,6 @@
 // write your code below!
 function happyHolidays() {
-  retun("Happy holidays!");
+  return("Happy holidays!");
 }
 
 function happyHolidaysTo(name) {
